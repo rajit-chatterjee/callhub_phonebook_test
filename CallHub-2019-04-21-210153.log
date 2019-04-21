@@ -1,0 +1,13 @@
+2019-04-21 21:01:57,025 - [common functions - 20 - open_browser()] - INFO - Found the browser.
+2019-04-21 21:02:15,748 - [common functions - 36 - go_to_url()] - INFO - Webpage has been opened
+2019-04-21 21:02:18,348 - [user_activities - 20 - user_login()] - INFO - Login button is clicked
+2019-04-21 21:02:34,510 - [user_activities - 39 - user_login()] - INFO - Login is successful. Continue...
+2019-04-21 21:02:36,773 - [user_activities - 49 - select_left_panel_option()] - INFO - Phonebook is selected
+2019-04-21 21:02:45,232 - [user_activities - 65 - create_phonebook()] - INFO - Phone book is created successfully
+2019-04-21 21:02:50,411 - [user_activities - 76 - search_for_phonebook()] - INFO - CallHub QA Test is found
+2019-04-21 21:02:55,507 - [user_activities - 87 - add_contacts()] - INFO - Add contact button is clicked
+2019-04-21 21:03:02,994 - [common functions - 67 - execute_script_element()] - INFO - Element has been clicked.
+2019-04-21 21:03:07,995 - [user_activities - 116 - user_information()] - INFO - Rahul is added successfully
+2019-04-21 21:03:13,086 - [user_activities - 87 - add_contacts()] - INFO - Add contact button is clicked
+2019-04-21 21:03:17,331 - [common functions - 67 - execute_script_element()] - INFO - Element has been clicked.
+2019-04-21 21:03:22,332 - [user_activities - 116 - user_information()] - INFO - Madhu is added successfully
