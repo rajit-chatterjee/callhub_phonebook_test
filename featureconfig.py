@@ -5,10 +5,10 @@ Change this file according to the need to test configurations.
 '''
 
 browser_details={'browser_name':"Chrome",
-                 'browser_path':"C:\DRIVERS\chromedriver.exe",
+                 'browser_path':"<browser path>",
                  "url":"https://callhub.io/"}
 
-user_login_details={"username":"rajitchatterjee1994@gmail.com", "password":"R@jit1994!"}
+user_login_details={"username":"<username>", "password":"<password>"}
 
 find_element_by={"xpath":"ByXpath",
                  "linktext":"ByLinkText",
